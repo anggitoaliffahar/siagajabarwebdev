@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Siaga Jabar",
+  "description": "Sistem Informasi Antisipasi Gawat Darurat Jawa Barat - Real-time disaster early warning, citizen reporting, and monitoring dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
